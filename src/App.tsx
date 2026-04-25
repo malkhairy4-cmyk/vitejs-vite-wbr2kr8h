@@ -348,4 +348,4 @@ const css = `
   .btn-gold:hover { opacity: 0.9; transform: translateY(-1px); }
   .card:hover { transform: translateY(-2px); box-shadow: 0 6px 24px rgba(0,0,0,0.08) !important; }
   input:focus, select:focus, textarea:focus { border-color: #c9a227 !important; box-shadow: 0 0 0 3px rgba(201,162,39,0.12); }
-`;
+  `;
